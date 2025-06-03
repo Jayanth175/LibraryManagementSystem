@@ -8,8 +8,8 @@ import java.io.IOException;
 @WebServlet("/adminLogin")
 public class AdminLoginServlet extends HttpServlet {
 
-    private final String ADMIN_EMAIL = "jayanthgowda170@gmail.com";
-    private final String ADMIN_PASS = "Jayu@7259";
+    private final String ADMIN_EMAIL = "admin123@gmail.com";
+    private final String ADMIN_PASS = "Admin@7259";
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
         throws ServletException, IOException {
