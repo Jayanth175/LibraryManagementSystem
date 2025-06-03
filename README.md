@@ -102,14 +102,4 @@ MySQL – Open-source database
 
 ---
 
-### ✅ How to use it:
 
-1. Open **Notepad** or any code editor (like VS Code).
-2. Paste the above content.
-3. Save the file as `README.md`.
-4. Place it inside your project folder.
-5. Run:
-   ```bash
-   git add README.md
-   git commit -m "Added README with features and screenshots"
-   git push origin master
