@@ -90,12 +90,7 @@ Run on Apache Tomcat Server via Eclipse.
 👤 Jayanth S
 📍 Bangalore, India
 📧 jayanthgowda170@gmail.com
-🔗 LinkedIn Profile
-
-⭐ Acknowledgements
-Tap Academy – Java Full Stack Training
-
-Bootstrap – Styling framework
+🔗 LinkedIn Profile:https://www.linkedin.com/in/jayanth-s/
 
 MySQL – Open-source database
 
